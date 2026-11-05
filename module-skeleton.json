@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-video-and-audio-react-native",
+  "capabilityKey": "liberusoftware/module-cms-video-and-audio",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-video-and-audio-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/video-and-audio.md",
+  "presentationPlan": "projects/cms/react-native/video-and-audio.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
